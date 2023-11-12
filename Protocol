@@ -1,0 +1,43 @@
+Title:
+Artificial Intelligence Application for Health and Performance Improvement in Football Teams: A Systematic Review Protocol.
+
+Objective:
+The objective of this systematic review is to conduct a comprehensive examination of the scientific literature about the application of artificial intelligence (AI) in football team health and performance. The review aims to identify major contributions, trends, and patterns in the literature.
+
+Methods:
+
+1. Inclusion Criteria:
+Original research reports, published in English as full text in peer-reviewed journals between November 2018 and November 2023.
+Research evaluating the application of artificial intelligence in football teams. 
+The artificial intelligence approaches or algorithms must be outlined and described.
+Studies addressing aspects related to players' health and performance.
+
+
+2. Exclusion Criteria:
+Studies unrelated to artificial intelligence in the football context.
+Research not addressing health or performance aspects.
+Works not available in full text.
+
+3. Literature Search:
+A comprehensive search will be conducted in electronic databases such as PubMed, IEEE Xplore, Scopus, and Web of Science.
+Specific search terms, including "artificial intelligence," "football," "health," and "performance," will be combined using boolean operators.
+A PICO tool table was developed to select the DeCS descriptors and to develop the MeSH during the search.
+
+4. Study Selection:
+Two reviewers, AAMM and MJDM will independently conduct the study selection based on inclusion and exclusion criteria.
+Discrepancies will be resolved through discussion between reviewers or, if necessary, with the intervention of a third reviewer, JLSR.
+
+5. Data Extraction:
+A standardized form will be designed for data extraction, including information on study design, AI intervention characteristics, health and performance-related outcomes, and methodology.
+
+6. Quality Assessment:
+The methodological quality of selected studies will be assessed using specific tools such as the Newcastle-Ottawa Scale for observational studies and the weakness of the study will be evaluated with AMSTAR-2 scale finally the risk of bias will be managed with an adaptation of evaluation criteria of Saw et al. (2016)
+
+7. Data Analysis:
+Qualitative analysis of the gathered information will be performed, identifying emerging patterns and highlighting areas of consensus or controversy.
+
+8. Meta-Analysis (if applicable):
+If the heterogeneity of studies allows, a meta-analysis will be conducted to quantify the magnitude of the effect of artificial intelligence on the health and performance of football teams.
+
+PROSPERO Registration:
+This systematic review protocol will be registered in PROSPERO before commencing the review to ensure transparency and prevent biases.
